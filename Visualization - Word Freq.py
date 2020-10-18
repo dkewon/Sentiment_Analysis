@@ -291,8 +291,3 @@ ax.plot([0, 9], [0, 9], color = 'red') # Plot the red line that divides the 2 ar
 plt.show()
 
 
-# This chart is straightforward to interpret. It shows that emoticons `:)` and `:(` are very important for sentiment analysis. Thus, we should not let preprocessing steps get rid of these symbols!
-# 
-# Furthermore, what is the meaning of the crown symbol? It seems to be very negative!
-
-# ### That's all for this lab! We've seen how to build a word frequency dictionary and this will come in handy when extracting the features of a list of tweets. Next up, we will be reviewing Logistic Regression. Keep it up!
